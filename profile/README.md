@@ -71,7 +71,7 @@ The Kairos platform is divided into purpose-built repositories, each handling a 
 
 ## 👨‍💻 Development Team
 
-This project is driven by **[@boazwhealy](https://github.com/boazwhealy)** (Frontend) and **[@jrdurham23](https://github.com/jrdurham23)** (Backend). The decoupled architecture allows our team to independently scale, test, and deploy the mobile app, web app, and backend services with maximum efficiency.
+This project is driven by **[@boazwhealy](https://github.com/boazwhealy)** (Co-Founder · iOS Engineer) and **[@jrdurham23](https://github.com/jrdurham23)** (Co-Founder · Backend Developer). The decoupled architecture allows our team to independently scale, test, and deploy the mobile app, web app, and backend services with maximum efficiency.
 
 ---
 
